@@ -1,6 +1,7 @@
 # formula1_telemetry
 Demo live race replay video: <br>
-[![Formula 1 Telemetry Demo](https://img.youtube.com/vi/cO7lA_vxitY/0.jpg)](https://www.youtube.com/watch?v=cO7lA_vxitY)
+[![Formula 1 Telemetry Demo](https://img.youtube.com/vi/cO7lA_vxitY/0.jpg)](https://www.youtube.com/watch?v=cO7lA_vxitY)<br>
+https://www.youtube.com/watch?v=cO7lA_vxitY
 
 <br>
 Telemetry Dashboard 
