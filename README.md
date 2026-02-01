@@ -10,7 +10,26 @@ A comprehensive Streamlit web application for analyzing and visualizing Formula 
 
 [Watch Full Demo on YouTube](https://www.youtube.com/watch?v=cO7lA_vxitY)
 
+
+## Tech Stack
+
+### Core Technologies
+- **Python** 
+- **Streamlit** 
+- **Pandas** 
+- **Plotly** 
+- **NumPy** 
+
+### Data Source
+- **FastF1 API** - Official F1 timing data and telemetry
+  - Lap times and sector times
+  - Car telemetry (speed, throttle, RPM, gear, DRS)
+  - GPS position data
+  - Tire information and pit stop data
+
+
 ## Features
+
 
 ### Race Overview
 - Final race results and standings
